@@ -1,0 +1,203 @@
+[
+    {
+      "name": "Jar Jar",
+      "date": "25 June 2025",
+      "rating": 5,
+      "title": "BEST PHONE I’VE USED TILL NOW… PERIOD…",
+      "verified": true,
+      "color": "Green Silk",
+      "size": "12GB+256GB",
+      "review": "As a very old user of OnePlus phones since the OnePlus One, this is by far the smoothest and most refined phone. Battery life is solid and the display is super vibrant. Very satisfied!"
+    },
+    {
+      "name": "Aarav Sharma",
+      "date": "20 June 2025",
+      "rating": 4,
+      "title": "Solid upgrade with great performance",
+      "verified": true,
+      "color": "Black",
+      "size": "8GB+128GB",
+      "review": "The performance is top-notch and apps run smoothly. However, the phone heats up a little during gaming sessions."
+    },
+    {
+      "name": "Sneha Rao",
+      "date": "18 June 2025",
+      "rating": 2,
+      "title": "Not worth the price",
+      "verified": true,
+      "color": "Silver",
+      "size": "8GB+256GB",
+      "review": "Disappointed. Battery drains fast, camera is just average, and the build quality doesn't justify the premium cost."
+    },
+    {
+      "name": "Vikram Nair",
+      "date": "15 June 2025",
+      "rating": 5,
+      "title": "Beast in performance!",
+      "verified": false,
+      "color": "Red",
+      "size": "12GB+512GB",
+      "review": "Gaming, multitasking, and app switching are super fluid. Feels like using a mini PC!"
+    },
+    {
+      "name": "Priya Mehta",
+      "date": "14 June 2025",
+      "rating": 3,
+      "title": "Good but not great",
+      "verified": true,
+      "color": "Blue",
+      "size": "8GB+128GB",
+      "review": "Design is great, but the camera could be better in low light. Face unlock is fast though."
+    },
+    {
+      "name": "Ravi Kumar",
+      "date": "12 June 2025",
+      "rating": 1,
+      "title": "Major letdown",
+      "verified": true,
+      "color": "White",
+      "size": "8GB+128GB",
+      "review": "Horrible battery life. Lags occasionally. Returned it within 5 days."
+    },
+    {
+      "name": "Meena Reddy",
+      "date": "10 June 2025",
+      "rating": 4,
+      "title": "Very satisfied",
+      "verified": false,
+      "color": "Green Silk",
+      "size": "12GB+256GB",
+      "review": "Display is bright and colorful. Charges quickly. Miss the headphone jack though."
+    },
+    {
+      "name": "Rohan Das",
+      "date": "8 June 2025",
+      "rating": 5,
+      "title": "Absolutely amazing!",
+      "verified": true,
+      "color": "Graphite",
+      "size": "12GB+512GB",
+      "review": "Battery lasts me two days. Camera is excellent. Very happy with this purchase."
+    },
+    {
+      "name": "Kavya Sinha",
+      "date": "7 June 2025",
+      "rating": 2,
+      "title": "Heating issues",
+      "verified": true,
+      "color": "Black",
+      "size": "8GB+256GB",
+      "review": "The phone gets too hot while charging and during video calls. Otherwise, okay."
+    },
+    {
+      "name": "Mohit Jain",
+      "date": "5 June 2025",
+      "rating": 4,
+      "title": "Great value for money",
+      "verified": false,
+      "color": "Green",
+      "size": "8GB+128GB",
+      "review": "Performance is solid and the software is snappy. Could improve the selfie camera."
+    },
+    {
+      "name": "Anjali Verma",
+      "date": "3 June 2025",
+      "rating": 3,
+      "title": "Average Experience",
+      "verified": true,
+      "color": "Purple",
+      "size": "8GB+128GB",
+      "review": "Looks good, works okay, but feels overpriced compared to competitors."
+    },
+    {
+      "name": "Siddharth Kapoor",
+      "date": "2 June 2025",
+      "rating": 5,
+      "title": "Stunning Camera and Display",
+      "verified": true,
+      "color": "Silver",
+      "size": "12GB+256GB",
+      "review": "Photos are flagship-grade, even at night. Display is buttery smooth."
+    },
+    {
+      "name": "Tanvi Joshi",
+      "date": "31 May 2025",
+      "rating": 1,
+      "title": "Faulty device received",
+      "verified": true,
+      "color": "Blue",
+      "size": "8GB+128GB",
+      "review": "The phone kept restarting randomly. Returned it the next day. Terrible experience."
+    },
+    {
+      "name": "Harish Rao",
+      "date": "30 May 2025",
+      "rating": 4,
+      "title": "A strong all-rounder",
+      "verified": true,
+      "color": "Green Silk",
+      "size": "12GB+256GB",
+      "review": "Good battery life, fluid performance, and great display. Lacks wireless charging though."
+    },
+    {
+      "name": "Neha Khandelwal",
+      "date": "28 May 2025",
+      "rating": 5,
+      "title": "Blazing fast phone",
+      "verified": true,
+      "color": "Red",
+      "size": "12GB+512GB",
+      "review": "Everything just works fast — camera, apps, downloads. Satisfied completely."
+    },
+    {
+      "name": "Aditya Malhotra",
+      "date": "27 May 2025",
+      "rating": 2,
+      "title": "Expected better",
+      "verified": true,
+      "color": "Black",
+      "size": "8GB+256GB",
+      "review": "Laggy UI and too much bloatware. Also, the back gets scratched easily."
+    },
+    {
+      "name": "Deepika Rana",
+      "date": "25 May 2025",
+      "rating": 3,
+      "title": "Just okay",
+      "verified": false,
+      "color": "Graphite",
+      "size": "8GB+128GB",
+      "review": "Battery and design are decent, but too bulky for my liking."
+    },
+    {
+      "name": "Yash Mittal",
+      "date": "24 May 2025",
+      "rating": 5,
+      "title": "Premium quality and performance",
+      "verified": true,
+      "color": "White",
+      "size": "12GB+256GB",
+      "review": "Feels premium in hand. Excellent build quality. Very pleased."
+    },
+    {
+      "name": "Pooja Sharma",
+      "date": "22 May 2025",
+      "rating": 4,
+      "title": "Impressive features",
+      "verified": true,
+      "color": "Silver",
+      "size": "8GB+128GB",
+      "review": "Gesture controls, display, and performance are excellent. Miss stereo speakers though."
+    },
+    {
+      "name": "Rahul Khanna",
+      "date": "20 May 2025",
+      "rating": 1,
+      "title": "Too many issues",
+      "verified": true,
+      "color": "Green Silk",
+      "size": "8GB+256GB",
+      "review": "Apps freeze, battery drains quickly, and fingerprint sensor fails often. Regret buying."
+    }
+  ]
+  
