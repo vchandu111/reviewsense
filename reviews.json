@@ -4,7 +4,7 @@
       "date": "25 June 2025",
       "rating": 5,
       "title": "BEST PHONE I’VE USED TILL NOW… PERIOD…",
-      "verified": true,
+      "verified": True,
       "color": "Green Silk",
       "size": "12GB+256GB",
       "review": "As a very old user of OnePlus phones since the OnePlus One, this is by far the smoothest and most refined phone. Battery life is solid and the display is super vibrant. Very satisfied!"
@@ -14,7 +14,7 @@
       "date": "20 June 2025",
       "rating": 4,
       "title": "Solid upgrade with great performance",
-      "verified": true,
+      "verified": True,
       "color": "Black",
       "size": "8GB+128GB",
       "review": "The performance is top-notch and apps run smoothly. However, the phone heats up a little during gaming sessions."
@@ -24,7 +24,7 @@
       "date": "18 June 2025",
       "rating": 2,
       "title": "Not worth the price",
-      "verified": true,
+      "verified": True,
       "color": "Silver",
       "size": "8GB+256GB",
       "review": "Disappointed. Battery drains fast, camera is just average, and the build quality doesn't justify the premium cost."
@@ -34,7 +34,7 @@
       "date": "15 June 2025",
       "rating": 5,
       "title": "Beast in performance!",
-      "verified": false,
+      "verified": False,
       "color": "Red",
       "size": "12GB+512GB",
       "review": "Gaming, multitasking, and app switching are super fluid. Feels like using a mini PC!"
@@ -44,7 +44,7 @@
       "date": "14 June 2025",
       "rating": 3,
       "title": "Good but not great",
-      "verified": true,
+      "verified": True,
       "color": "Blue",
       "size": "8GB+128GB",
       "review": "Design is great, but the camera could be better in low light. Face unlock is fast though."
@@ -54,7 +54,7 @@
       "date": "12 June 2025",
       "rating": 1,
       "title": "Major letdown",
-      "verified": true,
+      "verified": True,
       "color": "White",
       "size": "8GB+128GB",
       "review": "Horrible battery life. Lags occasionally. Returned it within 5 days."
@@ -64,7 +64,7 @@
       "date": "10 June 2025",
       "rating": 4,
       "title": "Very satisfied",
-      "verified": false,
+      "verified": False,
       "color": "Green Silk",
       "size": "12GB+256GB",
       "review": "Display is bright and colorful. Charges quickly. Miss the headphone jack though."
@@ -74,7 +74,7 @@
       "date": "8 June 2025",
       "rating": 5,
       "title": "Absolutely amazing!",
-      "verified": true,
+      "verified": True,
       "color": "Graphite",
       "size": "12GB+512GB",
       "review": "Battery lasts me two days. Camera is excellent. Very happy with this purchase."
@@ -84,7 +84,7 @@
       "date": "7 June 2025",
       "rating": 2,
       "title": "Heating issues",
-      "verified": true,
+      "verified": True,
       "color": "Black",
       "size": "8GB+256GB",
       "review": "The phone gets too hot while charging and during video calls. Otherwise, okay."
@@ -94,7 +94,7 @@
       "date": "5 June 2025",
       "rating": 4,
       "title": "Great value for money",
-      "verified": false,
+      "verified": False,
       "color": "Green",
       "size": "8GB+128GB",
       "review": "Performance is solid and the software is snappy. Could improve the selfie camera."
@@ -104,7 +104,7 @@
       "date": "3 June 2025",
       "rating": 3,
       "title": "Average Experience",
-      "verified": true,
+      "verified": True,
       "color": "Purple",
       "size": "8GB+128GB",
       "review": "Looks good, works okay, but feels overpriced compared to competitors."
@@ -114,7 +114,7 @@
       "date": "2 June 2025",
       "rating": 5,
       "title": "Stunning Camera and Display",
-      "verified": true,
+      "verified": True,
       "color": "Silver",
       "size": "12GB+256GB",
       "review": "Photos are flagship-grade, even at night. Display is buttery smooth."
@@ -124,7 +124,7 @@
       "date": "31 May 2025",
       "rating": 1,
       "title": "Faulty device received",
-      "verified": true,
+      "verified": True,
       "color": "Blue",
       "size": "8GB+128GB",
       "review": "The phone kept restarting randomly. Returned it the next day. Terrible experience."
@@ -134,7 +134,7 @@
       "date": "30 May 2025",
       "rating": 4,
       "title": "A strong all-rounder",
-      "verified": true,
+      "verified": True,
       "color": "Green Silk",
       "size": "12GB+256GB",
       "review": "Good battery life, fluid performance, and great display. Lacks wireless charging though."
@@ -144,7 +144,7 @@
       "date": "28 May 2025",
       "rating": 5,
       "title": "Blazing fast phone",
-      "verified": true,
+      "verified": True,
       "color": "Red",
       "size": "12GB+512GB",
       "review": "Everything just works fast — camera, apps, downloads. Satisfied completely."
@@ -154,7 +154,7 @@
       "date": "27 May 2025",
       "rating": 2,
       "title": "Expected better",
-      "verified": true,
+      "verified": True,
       "color": "Black",
       "size": "8GB+256GB",
       "review": "Laggy UI and too much bloatware. Also, the back gets scratched easily."
@@ -164,7 +164,7 @@
       "date": "25 May 2025",
       "rating": 3,
       "title": "Just okay",
-      "verified": false,
+      "verified": False,
       "color": "Graphite",
       "size": "8GB+128GB",
       "review": "Battery and design are decent, but too bulky for my liking."
@@ -174,7 +174,7 @@
       "date": "24 May 2025",
       "rating": 5,
       "title": "Premium quality and performance",
-      "verified": true,
+      "verified": True,
       "color": "White",
       "size": "12GB+256GB",
       "review": "Feels premium in hand. Excellent build quality. Very pleased."
@@ -184,7 +184,7 @@
       "date": "22 May 2025",
       "rating": 4,
       "title": "Impressive features",
-      "verified": true,
+      "verified": True,
       "color": "Silver",
       "size": "8GB+128GB",
       "review": "Gesture controls, display, and performance are excellent. Miss stereo speakers though."
@@ -194,7 +194,7 @@
       "date": "20 May 2025",
       "rating": 1,
       "title": "Too many issues",
-      "verified": true,
+      "verified": True,
       "color": "Green Silk",
       "size": "8GB+256GB",
       "review": "Apps freeze, battery drains quickly, and fingerprint sensor fails often. Regret buying."
